@@ -1,7 +1,7 @@
 [project]
-name = "test-gguf-inference"
+name = "outlines-llama-cpp-python-streaming-output"
 version = "0.1.0"
-description = "Add your description here"
+description = "A demonstration project showcasing the integration of outlines and llama-cpp-python for structured JSON generation with streaming output. It leverages llama.cpp for local model inference and outlines for schema-based text generation."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [

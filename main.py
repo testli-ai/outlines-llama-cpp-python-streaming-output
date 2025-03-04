@@ -1,5 +1,5 @@
 def main():
-    print("Hello from test-gguf-inference!")
+    print("Hello from outlines-llama-cpp-python-streaming-output!")
 
 
 if __name__ == "__main__":
